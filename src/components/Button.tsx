@@ -3,7 +3,7 @@ import styled from 'styled-components'
 
 const Button: FC = () => {
   return(
-    <InputButton type="button" value="表示" />
+    <InputButton type="submit" value="表示" />
   )
 }
 
